@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reactstates/static/css/main.04345403.chunk.css",
-    "main.js": "/reactstates/static/js/main.3e561e15.chunk.js",
-    "main.js.map": "/reactstates/static/js/main.3e561e15.chunk.js.map",
-    "runtime-main.js": "/reactstates/static/js/runtime-main.08bac8ea.js",
-    "runtime-main.js.map": "/reactstates/static/js/runtime-main.08bac8ea.js.map",
-    "static/js/2.f72b708f.chunk.js": "/reactstates/static/js/2.f72b708f.chunk.js",
-    "static/js/2.f72b708f.chunk.js.map": "/reactstates/static/js/2.f72b708f.chunk.js.map",
-    "static/js/3.1eca91e4.chunk.js": "/reactstates/static/js/3.1eca91e4.chunk.js",
-    "static/js/3.1eca91e4.chunk.js.map": "/reactstates/static/js/3.1eca91e4.chunk.js.map",
-    "index.html": "/reactstates/index.html",
-    "static/css/main.04345403.chunk.css.map": "/reactstates/static/css/main.04345403.chunk.css.map",
-    "static/js/2.f72b708f.chunk.js.LICENSE.txt": "/reactstates/static/js/2.f72b708f.chunk.js.LICENSE.txt",
-    "static/media/mercado-libre-logo.f40f667c.png": "/reactstates/static/media/mercado-libre-logo.f40f667c.png"
+    "main.css": "/UsingReactStates/static/css/main.04345403.chunk.css",
+    "main.js": "/UsingReactStates/static/js/main.3e561e15.chunk.js",
+    "main.js.map": "/UsingReactStates/static/js/main.3e561e15.chunk.js.map",
+    "runtime-main.js": "/UsingReactStates/static/js/runtime-main.d68c5e22.js",
+    "runtime-main.js.map": "/UsingReactStates/static/js/runtime-main.d68c5e22.js.map",
+    "static/js/2.f72b708f.chunk.js": "/UsingReactStates/static/js/2.f72b708f.chunk.js",
+    "static/js/2.f72b708f.chunk.js.map": "/UsingReactStates/static/js/2.f72b708f.chunk.js.map",
+    "static/js/3.1eca91e4.chunk.js": "/UsingReactStates/static/js/3.1eca91e4.chunk.js",
+    "static/js/3.1eca91e4.chunk.js.map": "/UsingReactStates/static/js/3.1eca91e4.chunk.js.map",
+    "index.html": "/UsingReactStates/index.html",
+    "static/css/main.04345403.chunk.css.map": "/UsingReactStates/static/css/main.04345403.chunk.css.map",
+    "static/js/2.f72b708f.chunk.js.LICENSE.txt": "/UsingReactStates/static/js/2.f72b708f.chunk.js.LICENSE.txt",
+    "static/media/mercado-libre-logo.f40f667c.png": "/UsingReactStates/static/media/mercado-libre-logo.f40f667c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.08bac8ea.js",
+    "static/js/runtime-main.d68c5e22.js",
     "static/js/2.f72b708f.chunk.js",
     "static/css/main.04345403.chunk.css",
     "static/js/main.3e561e15.chunk.js"
